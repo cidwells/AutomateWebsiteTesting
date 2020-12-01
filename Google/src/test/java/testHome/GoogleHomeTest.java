@@ -14,6 +14,6 @@ public class GoogleHomeTest extends GoogleHome {
         GoogleHome googleHome = PageFactory.initElements(driver,GoogleHome.class);
         googleHome.EnterTextGoogleSearchBar();
     }
-
+//fake
 }
 
